@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My Trip to the Beach",
+      "datetime": "August 3, 2021 2:30 PM",
+      "body": "Last weekend, I went on a trip to the beach with some friends. We stayed in a cozy beach house and spent our days lounging in the sun, swimming in the ocean, and enjoying the local seafood restaurants. It was a much-needed break from the daily grind and I can't wait to go back!"
+    },
+    {
+      "id": 2,
+      "title": "Learning a New Language",
+      "datetime": "July 27, 2021 9:15 AM",
+      "body": "I've been trying to learn Spanish for the past few months and it's been a challenge, but also really rewarding. I've been using a combination of apps, textbooks, and online courses to improve my skills. It's been great to see my progress over time and I'm excited to keep learning!"
+    },
+    {
+      "id": 3,
+      "title": "My Favorite Hiking Trail",
+      "datetime": "June 15, 2021 1:45 PM",
+      "body": "One of my favorite things to do on weekends is to go hiking. There's a trail near my house that I love - it's challenging enough to be a good workout, but also has beautiful views of the surrounding mountains. I always feel so refreshed and energized after a hike."
+    },
+    {
+      "id": 4,
+      "title": "New Recipe: Vegan Curry",
+      "body": "I tried making a vegan curry for the first time last night and it turned out really well! I used chickpeas, sweet potatoes, and lots of spices. It was flavorful and filling, and I didn't even miss the meat. Definitely adding this to my regular rotation of meals.",
+      "datetime": "May 5, 2023 10:46 AM"
+    }
+  ]
+}
