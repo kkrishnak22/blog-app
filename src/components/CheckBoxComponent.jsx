@@ -119,7 +119,7 @@ export default function CheckBoxComponent() {
   });
 
   return (
-    <div style={{ margin: "40px 0px 0px 100px" }}>
+    <div style={{ margin: "50px 0px 0px 100px" }}>
       <div>
         <div style={{ padding: "40px 40px 20px" }}>
           {/* SEARCH */}
